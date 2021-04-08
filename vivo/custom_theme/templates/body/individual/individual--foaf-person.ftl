@@ -19,7 +19,7 @@
 <#if !languageCount??>
 	<#assign languageCount = 1>
 </#if>
-<#assign visRequestingTemplate = "foaf-person-uncw_theme">
+<#assign visRequestingTemplate = "foaf-person-tenderfoot">
 
 <#--add the VIVO-ORCID interface -->
 <#include "individual-orcidInterface.ftl">

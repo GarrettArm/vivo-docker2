@@ -6,7 +6,7 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" >
     <rdf:Description>
         <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#Portal"/>
-        <rdfs:label xml:lang="en-US">Scholars@UNCW</rdfs:label>
+        <rdfs:label xml:lang="en-US">VIVO</rdfs:label>
         <j.0:shortHand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">connect * share * discover</j.0:shortHand>
         <j.0:flag1Filtering rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.0:flag1Filtering>
         <j.0:imageThumbWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:imageThumbWidth>
@@ -16,9 +16,9 @@
         <j.0:displayRank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</j.0:displayRank>
         <j.0:logotypeWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:logotypeWidth>
         <j.0:bannerHeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:bannerHeight>
-        <j.0:copyrightAnchor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University of North Carolina Wilmington</j.0:copyrightAnchor>
-	<j.0:copyrightURL rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://uncw.edu/www/copyright.html</j.0:copyrightURL>
-	<j.0:contactMail rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mcbrayerl@uncw.edu</j.0:contactMail>
+        <j.0:copyrightAnchor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIVO Project</j.0:copyrightAnchor>
+        <j.0:copyrightURL rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://mydomain.edu/copyright.html</j.0:copyrightURL>
+        <j.0:contactMail rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user@mydomain.edu</j.0:contactMail>
         <j.0:aboutText rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&lt;p&gt;VIVO is an open source semantic
         web application originally developed and implemented at Cornell. When installed and populated with content at
         an institution, it enables the discovery of research and scholarship across disciplines at that institution.

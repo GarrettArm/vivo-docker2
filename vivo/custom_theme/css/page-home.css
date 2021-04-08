@@ -11,7 +11,6 @@
 
 .hero {
     background: #283a4b url(../images/hero-background.jpg) repeat-x 0 0;
-    background-position: center;
 }
 
 .hero form input,
@@ -27,7 +26,14 @@
     border-bottom: 1px dotted #dbe3e3; /* stroke */
     background-color: #fff; /* layer fill content */
 }
-
+.home-sections h4 {
+    border-top: 1px solid rgba(220,228,227,.42); /* stroke */
+    border-bottom: 1px solid rgba(220,228,227,.42); /* stroke */
+    /* background-color: #395d7f; /* layer fill content */
+    background-color: #338caf;
+    border-bottom: 2px solid #62b6d7;
+    color: #fff;
+}
 #home-stats {
     margin-top: 30px;
 }
